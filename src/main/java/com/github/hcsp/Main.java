@@ -11,8 +11,6 @@ public class Main {
     }
     public static String getMessage(String x){
         return x ;
-
-
     }
 
 }
