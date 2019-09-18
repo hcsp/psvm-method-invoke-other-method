@@ -4,7 +4,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println(getMessage());
     }
-static String getMessage(){
+
+    static String getMessage() {
         return "hello";
     }
     // Create a getMessage() method here to return string "Hello"
