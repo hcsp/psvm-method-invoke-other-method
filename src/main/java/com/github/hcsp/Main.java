@@ -2,7 +2,9 @@ package com.github.hcsp;
 
 public class Main {
     public static void main(String[] args) {
+        getMessage();
     }
+
     public static void getMessage() {
         System.out.println("hello");
 
