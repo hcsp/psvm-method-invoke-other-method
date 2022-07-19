@@ -5,7 +5,7 @@ public class Main {
         System.out.println(getMessage());
 
     }
-    public static String getMessage(){
+    public static String getMessage() {
         return "Hello";
     }
     // Create a getMessage() method here to return string "Hello"
