@@ -5,7 +5,8 @@ public class Main {
         System.out.println(getMessage());
     }
 
-    // Create a getMessage() method here to return string "Hello"
-    // 在这里编写一个getMessage()方法，返回字符串"Hello"
-
+    public static String getMessage(){
+        String result = "Hello";
+        return result;
+    }
 }
